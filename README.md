@@ -9,3 +9,12 @@ Migrating large amount of data across regions is very demanding in terms of cost
 - Data Express Service (DES) – TB-scale data transmission service. It provides physical storage devices (such as Teleport, external USB hard disks, SATA disks, and SAS disks) to transmit terabytes of data to Huawei Cloud
 - Software development kits (SDKs) – Developers can directly use API functions provided by OBS SDKs to obtain the OBS service capabilities
 - Cross Region OBS Migration Solution – This document presents a solution used by HWC customers that are interested on reducing the migration cost & time by compressing files before migrating
+
+
+
+# Existing Solutions – Comparison
+
+![image](https://github.com/davira/cross_region_obs_migration/assets/8401868/123f8ee6-c72a-4865-bffb-3335455c7038)
+
+
+
